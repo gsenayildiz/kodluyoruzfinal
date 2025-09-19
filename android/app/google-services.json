@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004255676021",
+    "project_id": "kodluyor",
+    "storage_bucket": "kodluyor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004255676021:android:1bfde7f511cf106492da3c",
+        "android_client_info": {
+          "package_name": "com.example.kodluyoruzfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXObe3TeESrVJ0OOHpk6a38HZ6RTo_XJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
